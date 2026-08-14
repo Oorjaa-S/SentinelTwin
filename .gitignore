@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated data
+data/raw/
+data/processed/
+data/splits/
+data/results/
+
+# Trained/generated artifacts
+models/
+artifacts/
+
+# Generated PDFs
+SentinelTwin_Codebase.pdf
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
