@@ -14,7 +14,6 @@ env/
 
 # Generated data
 data/raw/
-data/processed/
 data/splits/
 data/results/
 
