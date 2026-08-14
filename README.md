@@ -12,6 +12,12 @@ The system also implements **trust-gated online adaptation**, allowing behaviora
 
 ---
 
+## 🚀 Live Prototype
+
+**[Open SentinelTwin Dashboard](https://sentineltwin.streamlit.app/)**
+
+---
+
 ## Table of Contents
 
 - [Problem](#problem)
